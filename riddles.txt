@@ -1,0 +1,30 @@
+What has keys but no locks?
+Keyboard,Piano,Door
+---
+What gets wet while drying?
+Towel,Sponge,Paper
+---
+What can travel around the world while staying in a corner?
+Stamp,Box,Coin
+---
+What has hands but cannot clap?
+Clock,Doll,Statue
+---
+What has a head and a tail but no body?
+Coin,Snake,Arrow
+---
+What goes up but never comes down?
+Age,Balloon,Price
+---
+What can you catch but not throw?
+Cold,Ball,Fish
+---
+What has many teeth but cannot bite?
+Comb,Saw,Key
+---
+What runs but never walks?
+River,Clock,Motor
+---
+What has one eye but cannot see?
+Needle,Cyclops,Camera
+---
